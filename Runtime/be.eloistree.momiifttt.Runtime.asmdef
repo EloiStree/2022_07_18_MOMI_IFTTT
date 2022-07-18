@@ -2,7 +2,8 @@
     "name": "be.eloistree.momiifttt",
     "rootNamespace": "",
     "references": [
-        "be.eloistree.momi"
+        "be.eloistree.momi",
+        "be.eloistree.generaltoolbox"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
