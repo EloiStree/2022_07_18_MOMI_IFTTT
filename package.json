@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.momiifttt",                              
+  "displayName": "Module OMI IFTTT",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package translate command line to IFTTT API request.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2022_07_18_MOMI_IFTTT.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

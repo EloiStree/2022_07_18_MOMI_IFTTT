@@ -1,0 +1,16 @@
+{
+    "name": "be.eloistree.momiifttt",
+    "rootNamespace": "",
+    "references": [
+        "be.eloistree.momi"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
